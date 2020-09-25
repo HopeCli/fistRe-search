@@ -4,4 +4,4 @@
 
 #Basic Algorithm Scripting: Find the Longest Word in a String == challengetwo2.js
 
-#Basic Algorithm Scripting: Reverse a String == challenge3.js
+#Basic Algorithm Scripting: Reverse a String == challenge.js
