@@ -7,7 +7,7 @@ function largestOfFour(collection) {
   	    //  setting the variable with result inside...
              let result = Math.max.apply(null, d);
 
-        // push the rrsult into super array 
+        // push the result into super array 
             container.push(result);
        });
     // return super array...
